@@ -6,8 +6,8 @@
 ##
 
 <div style="display:flex; justify-content:space-around; background-color:#000; border-radius:10px; padding:15px;">
- <img height="150" src="https://github-readme-stats.vercel.app/api?username=ericoluizdias&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do Erico"/>
  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericoluizdias&layout=compact&langs_count=16&theme=radical" alt="Linguagens Mais Usadas pelo Erico"/>
+ <img height="150" src="https://github-readme-stats.vercel.app/api?username=ericoluizdias&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do Erico"/>
 </div>
 <br>
 
