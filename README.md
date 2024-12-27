@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Érico Dias!!! 👋
 
-- 🔭 Hoje trabalho com infraestrutura On-Premise, mas estou em transição para DevOps.
+- 🔭 Hoje trabalho com infraestrutura On-Premise, mas estou em estudos/transição para DevOps.
 - 🌱 Estudo DevOps, AWS, GCP, Azure entre outros.
 - 😄 Pronouns: ele/dele
 
