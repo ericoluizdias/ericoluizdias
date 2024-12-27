@@ -5,7 +5,7 @@
 - 😄 Mais de 20 anos trabalhando com tecnologia, e contando!!!
 ##
 
-<div style="display:flex; justify-content:space-around; background-color:#000; border-radius:10px; padding:10px;">
+<div style="display:flex; justify-content:space-around; background-color:#000; border-radius:20px; padding:20px;">
  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ericoluizdias&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do Erico"/>
  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericoluizdias&layout=compact&langs_count=10&theme=radical" alt="Linguagens"/>
  </div>
