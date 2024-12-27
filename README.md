@@ -3,12 +3,15 @@
 - 🔭 Hoje trabalho com infraestrutura On-Premise, mas estou em estudos/transição para DevOps.
 - 🌱 Estudo DevOps, AWS, GCP, Azure entre outros.
 - 😄 Pronouns: ele/dele
+##
 
 <div>
   <a href="https://beacons.ai/ericoluizdias">
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=ericoluizdias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericoluizdias&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="erico-win" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />  
@@ -21,8 +24,7 @@
   <img align="center" alt="erico-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="erico-kuber" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" />
   <img align="center" alt="erico-nginx" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
-  <img align="center" alt="erico-vagrant" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vagrant/vagrant-original-wordmark.svg" />
-        
+  <img align="center" alt="erico-vagrant" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vagrant/vagrant-original-wordmark.svg" />   
 </div>
   
   ##
