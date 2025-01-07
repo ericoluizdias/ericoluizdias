@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Érico Dias!!! 👋
 
-- 🔭 Sou Analista de Infraestrutura Pleno (On-Premise), entusiasta nos estudos de DevOps e Cloud.
+- 🔭 Sou Analista de Infraestrutura (On-Premise - Infra é fod!@#!), entusiasta nos estudos de DevOps e Cloud.
 - 🌱 Atuanlmente estudando Docker, Kubernets, Vagrant e Ansible.
 - 😄 Mais de 20 anos trabalhando com tecnologia, e contando!!!
 ##
