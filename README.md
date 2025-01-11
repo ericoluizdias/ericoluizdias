@@ -1,7 +1,7 @@
 ## Olá! Dr. ou Dra.!!! Na paz? 👋
 
 - 🔭 Sou do time da Infra On-Premise - Infra é fod!@#! Entusiasta nos estudos de DevOps e Cloud.
-- 🌱 Atuanlmente estudando Docker, Kubernets, Vagrant e Ansible.
+- 🌱 Atualmente estudando Tecnologias em Cloud, Docker, Kubernets, Vagrant e Ansible.
 - 😄 Mais de 20 anos trabalhando com tecnologia, e contando!!!
 ##
 
