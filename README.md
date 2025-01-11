@@ -1,4 +1,4 @@
-## Olá! Dr. ou Dra.!!! Tudo bem? 👋
+## Olá! Dr. ou Dra.!!! Na paz? 👋
 
 - 🔭 Sou do time da Infra On-Premise - Infra é fod!@#! Entusiasta nos estudos de DevOps e Cloud.
 - 🌱 Atuanlmente estudando Docker, Kubernets, Vagrant e Ansible.
