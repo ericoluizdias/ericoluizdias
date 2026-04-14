@@ -1,7 +1,7 @@
 ## Olá Dr(a)!!! Tanquilo? 👋
 
 - 🔭 Sou do time da Infra On-Premise - Como diz um amigo meu, "Infra é fod!@#!" Entusiasta nos estudos de DevOps, Cloud e IA.
-- 🌱 Atualmente estudando Tecnologias em Cloud, Docker, Kubernets, Vagrant e Ansible.
+- 🌱 Atualmente estudando Tecnologias em Cloud, Docker, Ansible, Shell Script e Cyber.
 - 😄 Mais de 20 anos trabalhando com tecnologia e contando!!!
 ##
 
